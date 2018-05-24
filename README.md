@@ -3,8 +3,13 @@ from biancheng
 
 # Start
 
-npm install
-cd src 
-gulp
+### cd src 
+### npm install
 
+### gulp
+
+### cd ..
+
+### cd www
+### open index.html in chrome
  
