@@ -383,7 +383,7 @@ var Grid = function () {
             // const matrix = generator.matrix;
             var sudoku = new Sudoku();
             sudoku.make();
-            var matrix = sudoku.solutionMatrix;
+            var matrix = sudoku.puzzleMatrix;
 
             var rowGroupClass = ['row_g_top', 'row_g_middle', 'row_g_bottom'];
             var colGroupClass = ['col_g_left', 'col_g_center', 'col_g_right'];
